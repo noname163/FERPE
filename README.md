@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## If you have erros npm 
+"ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve" when use `npm install` run flowing code
+### `npm cache clean --force` 
+### `npm install --legacy-peer-deps` or
+### `npm install --force`
+
 
 ## Available Scripts
 
